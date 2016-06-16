@@ -13,9 +13,9 @@ Here a checksum (without AAAA), a simply sum, then the end with 0x5555.
 Initiaslly, I''ve wrote a, .hta test program, then another with an advanced COM handler (MSCOMM32.OCX). Here I post the 1st.
 It was usefull the use of PCAN sniffer. I'm unenploied, so my frend give it to me...
 
-Then, I?ve wrote a C program using the old Borland c++ Builder 6 (the two china's program was written in the same way, or in Delphi).
+Then, I've wrote a C program using the old Borland c++ Builder 6 (the two china's program was written in the same way, or in Delphi).
 
-I'm here to shere my job, ideas and contribuite to make a 20$ sniffer more efficent.
+I'm here to share my job, ideas and contribuite to make a 20$ CAN sniffer more efficent.
 
 P.S.: If someone have the original firmware software I?m very happy to handle this and correct/rewrite the new one.
 Also, the scheme can help me to rewrite a new firmware, with the suggestion/help of other users.
